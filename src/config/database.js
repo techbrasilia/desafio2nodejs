@@ -2,7 +2,7 @@ module.exports = {
   dialect: 'mysql',
   host: 'localhost',
   username: 'root',
-  password: 'docker',
+  password: 'root',
   database: 'gympoint',
   define: {
     timestamp: true,
