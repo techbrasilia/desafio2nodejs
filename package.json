@@ -13,7 +13,7 @@
     "jsonwebtoken": "^9.0.0",
     "mysql": "^2.18.0",
     "mysql2": "^3.9.8",
-    "sequelize": "^6.29.0",
+    "sequelize": "^6.37.8",
     "yup": "^0.27.0"
   },
   "devDependencies": {
